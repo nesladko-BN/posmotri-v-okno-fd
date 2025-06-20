@@ -291,6 +291,7 @@ ol {
 
 .content__card-link {  /* Стилизуем ссылки */
   text-decoration: none;
+  display: block;
   color: rgba(255, 255, 255, 1);
 }
 
